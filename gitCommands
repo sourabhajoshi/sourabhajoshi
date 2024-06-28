@@ -1,0 +1,22 @@
+Commit and push your changes
+
+You’ve made changes to a file in your repository. Now it’s time to record those changes by making your first commit.
+Add the README.md file to the staging area. The staging area is where you put files before you commit them.
+git add README.md
+
+Confirm the file is staged:
+git status
+
+You should get output similar to the following, and the filename should be in green text.
+On branch example-tutorial-branch
+Changes to be committed:
+(use "git restore --staged <file>..." to unstage)
+modified:   README.md
+
+Now commit the staged file, and include a message that describes the change you made. Make sure you surround the message in double quotes (“).
+git commit -m "I added text to the README file"
+
+The change has been committed to your branch, but your branch and its commits are still only available on your computer. No one else has access to them yet. Push your branch to GitLab:
+git push origin example-tutorial-branch
+
+Your branch is now available on GitLab and visible to other users in your project.
