@@ -15,7 +15,8 @@
 ## 🌱 I’m currently learning
 - DSA   
 - Scalable backend architecture & system design  
-- Frontend design systems and reusable component patterns  
+- Frontend design systems and reusable component patterns
+- Clean code and best practices  
 
 ---
 
@@ -23,7 +24,6 @@
 - How to get started with Python or JavaScript  
 - Setting up clean folder structures in Vue  
 - RESTful API design  
-- Clean code and best practices  
 
 ---
 
@@ -35,7 +35,7 @@
 ---
 
 ## 📫 How to reach me
-- 📧 Email: joshisourabh124@gmail.com *(or your real email)*
+- 📧 Email: joshisourabh124@gmail.com
 
 ---
 
