@@ -23,7 +23,7 @@
 ## 💬 Ask me about
 - How to get started with Python or JavaScript  
 - Setting up clean folder structures in Vue  
-- RESTful API design  
+- API (RESTful) design  
 
 ---
 
