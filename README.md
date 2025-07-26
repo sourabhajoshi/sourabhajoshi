@@ -9,6 +9,7 @@
 ## 👀 I’m interested in
 - 🐍 Python & 🟨 JavaScript
 - 🧠 Design Patterns
+- DSA
 
 ---
 
