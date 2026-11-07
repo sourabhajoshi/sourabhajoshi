@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Software Engineer from Bidar, Karnataka, India
 - 🎓 I hold a Master's degree (M.Tech) from VTU
-- 🏢 Currently working as a Software Engineer in Festo India, Pvt Ltd, Bangalore
+- 🏢 Currently working as a Software Engineer in Festo India, Pvt Ltd, Bangalore   
 
 ---
 
